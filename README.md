@@ -9,15 +9,18 @@ CodeBook.md a code book that describes the variables, the data, and any transfor
 run_analysis.R performs the data preparation as described in the course project’s definition:
 
 Merges the training and the test sets to create one data set with target variables.
-Binds these files,
-subject_train.txt
-X_train.txt
-y_train.txt
 
 Binds these files,
-subject_test.txt
-X_test.txt
-y_test.txt
+
+/subject_train.txt
+/X_train.txt
+/y_train.txt
+
+Binds these files,
+
+/subject_test.txt
+/X_test.txt
+/y_test.txt
 
 Binds the data frames created for test and train set into one large dataset by rows.
 
